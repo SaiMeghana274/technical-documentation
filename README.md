@@ -34,7 +34,7 @@
 [github link]https://github.com/
 ---------------------------------------------------------------------------------------
 ** to insert tables**
-|NAME|BRANCH|ROOLNO|
+|NAME|BRANCH|ROlLNO|
 |----|------|----|
 |MINNU|CSE3|05D6|
 |ABHI|CHEMICAL|O59|
